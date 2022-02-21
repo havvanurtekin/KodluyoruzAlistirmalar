@@ -24,7 +24,7 @@ public class Alistirma_1 {
 				}
 			}
 			if(a == 0) {
-				System.out.println(n);
+				System.out.print(n);
 			}
 			n--;
 		}
